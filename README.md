@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mani070707/Coding-Cache/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mani070707/Coding-Cache/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mani070707/Coding-Cache/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mani070707/Coding-Cache/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mani070707/Coding-Cache/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mani070707/Coding-Cache/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -61,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0226-invert-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
