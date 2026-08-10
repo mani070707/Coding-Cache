@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mani070707/Coding-Cache/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mani070707/Coding-Cache/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mani070707/Coding-Cache/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
 | ------- |
@@ -105,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
