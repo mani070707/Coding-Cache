@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mani070707/Coding-Cache/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/mani070707/Coding-Cache/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mani070707/Coding-Cache/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mani070707/Coding-Cache/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mani070707/Coding-Cache/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
