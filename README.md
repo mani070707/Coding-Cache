@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/mani070707/Coding-Cache/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/mani070707/Coding-Cache/tree/master/1927-sum-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Nim Game
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
