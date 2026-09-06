@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mani070707/Coding-Cache/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mani070707/Coding-Cache/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/mani070707/Coding-Cache/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/mani070707/Coding-Cache/tree/master/2029-stone-game-ix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
