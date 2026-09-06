@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/mani070707/Coding-Cache/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/mani070707/Coding-Cache/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mani070707/Coding-Cache/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/mani070707/Coding-Cache/tree/master/1768-merge-strings-alternately) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mani070707/Coding-Cache/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/mani070707/Coding-Cache/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/mani070707/Coding-Cache/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mani070707/Coding-Cache/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
