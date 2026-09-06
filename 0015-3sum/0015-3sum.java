@@ -16,7 +16,7 @@ class Solution {
                     left++;
                     right--;
                     if(left<right && nums[left] == nums[left-1]) left++;
-                    if(left<right && nums[right] == nums[right+1]) right++;
+                    if(left<right && nums[right] == nums[right+1]) right--;
 
                 }
                 else if(sum < 0){
