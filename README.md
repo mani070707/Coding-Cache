@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mani070707/Coding-Cache/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mani070707/Coding-Cache/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mani070707/Coding-Cache/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mani070707/Coding-Cache/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani070707/Coding-Cache/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bracket Sequences
 |  |
