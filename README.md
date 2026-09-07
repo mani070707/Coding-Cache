@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mani070707/Coding-Cache/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mani070707/Coding-Cache/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/mani070707/Coding-Cache/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/mani070707/Coding-Cache/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/mani070707/Coding-Cache/tree/master/0455-assign-cookies) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mani070707/Coding-Cache/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mani070707/Coding-Cache/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0206-reverse-linked-list) |
