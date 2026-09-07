@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mani070707/Coding-Cache/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mani070707/Coding-Cache/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mani070707/Coding-Cache/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/mani070707/Coding-Cache/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mani070707/Coding-Cache/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mani070707/Coding-Cache/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mani070707/Coding-Cache/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
