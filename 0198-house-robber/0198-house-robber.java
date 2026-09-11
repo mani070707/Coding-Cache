@@ -26,6 +26,24 @@ class Solution {
         int n = nums.length;
         int[] dp = new int[n];
         Arrays.fill(dp,-1);
-        return helper(n-1,nums,dp);
+        //return helper(n-1,nums,dp);
+
+        dp[0] = nums[0];
+
+        for(int i=1;i<n;i++){
+            //take notTake case
+            int take = nums[i] ;
+            if(i>1){
+                take += dp[i-2];
+            }
+
+            //notTake
+            int notTake = dp[i-1];
+
+            dp[i] = Math.max(take,notTake);
+
+        }
+
+        return dp[n-1];
     }
 }
