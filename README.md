@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mani070707/Coding-Cache/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mani070707/Coding-Cache/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mani070707/Coding-Cache/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/mani070707/Coding-Cache/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mani070707/Coding-Cache/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0152-maximum-product-subarray) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani070707/Coding-Cache/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/mani070707/Coding-Cache/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/mani070707/Coding-Cache/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mani070707/Coding-Cache/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mani070707/Coding-Cache/tree/master/0125-valid-palindrome) |
