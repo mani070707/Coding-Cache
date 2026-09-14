@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mani070707/Coding-Cache/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mani070707/Coding-Cache/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mani070707/Coding-Cache/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mani070707/Coding-Cache/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mani070707/Coding-Cache/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
