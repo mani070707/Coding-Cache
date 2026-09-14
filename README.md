@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mani070707/Coding-Cache/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mani070707/Coding-Cache/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mani070707/Coding-Cache/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/mani070707/Coding-Cache/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/mani070707/Coding-Cache/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mani070707/Coding-Cache/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/mani070707/Coding-Cache/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/mani070707/Coding-Cache/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mani070707/Coding-Cache/tree/master/1757-recyclable-and-low-fat-products) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
