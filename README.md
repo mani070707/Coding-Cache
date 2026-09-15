@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mani070707/Coding-Cache/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mani070707/Coding-Cache/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mani070707/Coding-Cache/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0516-longest-palindromic-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mani070707/Coding-Cache/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/mani070707/Coding-Cache/tree/master/1768-merge-strings-alternately) |
