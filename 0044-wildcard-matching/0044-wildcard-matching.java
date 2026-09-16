@@ -27,6 +27,41 @@ class Solution {
     public boolean isMatch(String s, String p) {
         int n = s.length(), m = p.length();
         Boolean[][] dp = new Boolean[n+1][m+1];
-        return helper(n, m, s, p, dp);
+        // return helper(n, m, s, p, dp);
+
+        //base case
+        dp[0][0] = true;
+
+        for(int i=1;i<=n;i++){
+            dp[i][0] = false;
+        }
+
+        
+        for(int j=1;j<=m;j++){
+            boolean flag = true;
+            for(int k=1;k<=j;k++){
+                if(p.charAt(k-1) != '*'){
+                    flag = false;
+                    break;
+                }
+            }
+            dp[0][j] = flag;
+        }
+
+        for(int i=1 ; i<=n ; i++){
+            for(int j=1 ; j<=m ; j++){
+                boolean result;
+                if (p.charAt(j-1) == s.charAt(i-1) || p.charAt(j-1) == '?') {
+                    result = dp[i-1][j-1];
+                } else if (p.charAt(j-1) == '*') {
+                    result = dp[i-1][j] || dp[i][j-1];
+                } else {
+                    result = false;
+                }
+                dp[i][j] = result;
+
+            }
+        }
+        return dp[n][m];
     }
 }
