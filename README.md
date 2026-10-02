@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/mani070707/Coding-Cache/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/mani070707/Coding-Cache/tree/master/0860-lemonade-change) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mani070707/Coding-Cache/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/1143-longest-common-subsequence) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mani070707/Coding-Cache/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mani070707/Coding-Cache/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
