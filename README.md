@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/mani070707/Coding-Cache/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mani070707/Coding-Cache/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/mani070707/Coding-Cache/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mani070707/Coding-Cache/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bracket Sequences
 |  |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
