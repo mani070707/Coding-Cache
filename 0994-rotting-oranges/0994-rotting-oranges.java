@@ -4,14 +4,15 @@ class Solution {
         int m = grid[0].length;
         int ans = 0;
         Queue<int[]> q = new LinkedList<>();
-        boolean[][] vis = new boolean[n][m];
+        boolean vis[][] = new boolean[n][m];
+
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j] == 1){
                     ans++;
                 }
-                else if(grid[i][j] == 2){
-                    q.add(new int[]{i,j});
+                if(grid[i][j] == 2){
+                    q.offer(new int[]{i,j});
                     vis[i][j] = true;
                 }
             }
@@ -19,31 +20,34 @@ class Solution {
         if(ans == 0){
             return 0;
         }
-        int min = -1;
-        int[][] dir = {{-1,0},{1,0},{0,-1},{0,1}};
-        while(!q.isEmpty()){
+        
+
+        int time = 0;
+        int dr[] = {-1,1,0,0};
+        int dc[] = {0,0,1,-1};
+
+        while(!q.isEmpty() && ans> 0){
             int size = q.size();
-            min++;
+
             for(int i=0;i<size;i++){
-                int[] arr = q.poll();
-                int x = arr[0];
-                int y = arr[1];
+                int[] node = q.poll();
+                int r = node[0];
+                int c = node[1];
+            
+                for(int d = 0; d < 4 ;d++){
+                    int newR = r + dr[d];
+                    int newC = c + dc[d];
 
-                for(int[] d : dir){
-                    int nx = x + d[0];
-                    int ny = y + d[1];
-                    if(nx <0 || ny <0 || nx >= n || ny >= m || vis[nx][ny] || grid[nx][ny] != 1){
-                        continue;
+                    if(newR >= 0 &&  newC >= 0 && newR<n && newC < m && grid[newR][newC] == 1 && !vis[newR][newC]){
+                        q.offer(new int[]{newR,newC});
+                        vis[newR][newC] = true;
+                        ans--;
                     }
-
-                    vis[nx][ny] = true;
-                    ans--;
-                    q.add(new int[]{nx,ny});
                 }
             }
+            time++;
         }
 
-        return ans == 0 ? min : -1;
-
+        return ans == 0 ? time : -1;
     }
 }
