@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani070707/Coding-Cache/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mani070707/Coding-Cache/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/mani070707/Coding-Cache/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mani070707/Coding-Cache/tree/master/0055-jump-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani070707/Coding-Cache/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mani070707/Coding-Cache/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/mani070707/Coding-Cache/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/mani070707/Coding-Cache/tree/master/0091-decode-ways) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mani070707/Coding-Cache/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mani070707/Coding-Cache/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0022-generate-parentheses) |
 ## Euclidean Algorithm
 |  |
 | ------- |
