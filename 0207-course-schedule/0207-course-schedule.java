@@ -1,50 +1,43 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        //DAG
         int V = numCourses;
+
+
         List<List<Integer>> adj = new ArrayList<>();
+        int[] indegree = new int[V];
         for(int i=0;i<V;i++){
             adj.add(new ArrayList<>());
         }
 
-        for(int[] p: prerequisites){
-            adj.get(p[0]).add(p[1]);
-        }
+        for(int[] pre : prerequisites){
+            int course = pre[0];
+            int prereq = pre[1];
 
-        int[] indegree = new int[V];
-
-        for(int i=0;i<V;i++){
-            for(int it : adj.get(i)){
-                indegree[it]++;
-            }
+            adj.get(prereq).add(course);
+            indegree[course]++;
         }
 
         Queue<Integer> q = new LinkedList<>();
 
         for(int i=0;i<V;i++){
             if(indegree[i] == 0){
-                q.offer(i);
+                q.add(i);
             }
         }
 
-        int topo[] = new int[V];
-        int i=0;
+        int cnt = 0;
         while(!q.isEmpty()){
             int node = q.poll();
-            topo[i++] = node;
-            for(int it : adj.get(node)){
-                indegree[it]--;
-                if(indegree[it] == 0){
-                    q.offer(it);
+            cnt++;
+
+            for(int i : adj.get(node)){
+                indegree[i]--;
+                if(indegree[i] == 0){
+                    q.offer(i);
                 }
             }
         }
 
-        if(i != V){
-            return false;
-        }
-
-        return true;
-
+        return cnt == V;
     }
 }
