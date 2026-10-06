@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mani070707/Coding-Cache/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mani070707/Coding-Cache/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mani070707/Coding-Cache/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0516-longest-palindromic-subsequence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mani070707/Coding-Cache/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mani070707/Coding-Cache/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/mani070707/Coding-Cache/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mani070707/Coding-Cache/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mani070707/Coding-Cache/tree/master/0207-course-schedule) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani070707/Coding-Cache/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/mani070707/Coding-Cache/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
