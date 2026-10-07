@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/mani070707/Coding-Cache/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0516-longest-palindromic-subsequence) |
 | [0856-score-of-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0856-score-of-parentheses) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mani070707/Coding-Cache/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/mani070707/Coding-Cache/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mani070707/Coding-Cache/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mani070707/Coding-Cache/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mani070707/Coding-Cache/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mani070707/Coding-Cache/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
