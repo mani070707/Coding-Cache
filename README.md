@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mani070707/Coding-Cache/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mani070707/Coding-Cache/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/mani070707/Coding-Cache/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mani070707/Coding-Cache/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/mani070707/Coding-Cache/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
@@ -501,4 +503,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mani070707/Coding-Cache/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/mani070707/Coding-Cache/tree/master/0127-word-ladder) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
