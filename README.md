@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
+| [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mani070707/Coding-Cache/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mani070707/Coding-Cache/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
+| [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mani070707/Coding-Cache/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mani070707/Coding-Cache/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mani070707/Coding-Cache/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mani070707/Coding-Cache/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0300-longest-increasing-subsequence) |
+| [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mani070707/Coding-Cache/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mani070707/Coding-Cache/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mani070707/Coding-Cache/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -507,8 +510,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
+| [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mani070707/Coding-Cache/tree/master/0146-lru-cache) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
