@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/mani070707/Coding-Cache/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani070707/Coding-Cache/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mani070707/Coding-Cache/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3886-sum-of-sortable-integers](https://github.com/mani070707/Coding-Cache/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mani070707/Coding-Cache/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/mani070707/Coding-Cache/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani070707/Coding-Cache/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/mani070707/Coding-Cache/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mani070707/Coding-Cache/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mani070707/Coding-Cache/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/mani070707/Coding-Cache/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/mani070707/Coding-Cache/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mani070707/Coding-Cache/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/mani070707/Coding-Cache/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
