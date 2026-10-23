@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/mani070707/Coding-Cache/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/mani070707/Coding-Cache/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/mani070707/Coding-Cache/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/mani070707/Coding-Cache/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mani070707/Coding-Cache/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/mani070707/Coding-Cache/tree/master/2029-stone-game-ix) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mani070707/Coding-Cache/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mani070707/Coding-Cache/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mani070707/Coding-Cache/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mani070707/Coding-Cache/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mani070707/Coding-Cache/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mani070707/Coding-Cache/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mani070707/Coding-Cache/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bracket Sequences
@@ -425,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mani070707/Coding-Cache/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -456,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/mani070707/Coding-Cache/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -545,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mani070707/Coding-Cache/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
