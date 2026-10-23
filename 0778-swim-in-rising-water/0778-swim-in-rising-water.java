@@ -1,59 +1,45 @@
 class Solution {
-    public int swimInWater(int[][] grid) {
-        // at T = t water level = t
-        // elevation <= t
-        // (0,0) -> (n-1,n-1)
-        int m = grid.length;
-        int n =grid[0].length;
-        int[][] dir = {{0,1}, {1,0}, {0,-1}, {-1,0}};
+    int n;
+    int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    boolean[][] visited;
 
-        int low = grid[0][0];
-        int high = 0;
-
-        for(int[] row : grid){
-            for(int val : row){
-                high = Math.max(high,val);
-            }
-        }
-
-        while(low < high){
-            int mid = low + (high - low)/2;
-            if(possible(grid,mid,m,n,dir)){
-                high = mid;
-            }
-            else{
-                low = mid + 1;
-            }
-
-        }
-        return low;
-        
-    }
-
-    private boolean possible(int[][] grid, int mid, int m ,int n ,int[][] dir){
-        if(grid[0][0] > mid){
+    private boolean reachable(int[][] grid, int i, int j, int mid) {
+        if (i < 0 || i >= n || j < 0 || j >= n || visited[i][j] || grid[i][j] > mid)
             return false;
+
+        visited[i][j] = true;
+
+        if (i == n - 1 && j == n - 1)
+            return true;
+
+        for (int[] dir : directions) {
+            int new_i = i + dir[0];
+            int new_j = j + dir[1];
+            if (reachable(grid, new_i, new_j, mid))
+                return true;
         }
-        boolean[][] vis = new boolean[n][m];
-        return dfs(grid,0,0,mid,vis,m,n,dir);
+
+        return false;
     }
 
-    private boolean dfs(int[][] grid, int i, int j, int mid ,boolean[][] vis,int m, int n , int[][] dir){
-        if(i == m-1 && j == n-1) return true;
-        vis[i][j] = true;
+    public int swimInWater(int[][] grid) {
+        n = grid.length;
 
-        for(int[] d : dir){
-            int nr = i + d[0];
-            int nc = j + d[1];
-            if(nr >=0 && nc >= 0 && nr < m && nc < n && !vis[nr][nc]){
-                if(grid[nr][nc] <= mid){
-                    if(dfs(grid,nr,nc,mid,vis,m,n,dir)){
-                        return true;
-                    }
-                }
+        int l = grid[0][0], r = n * n - 1;
+        int result = 0;
+
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            visited = new boolean[n][n];
+
+            if (reachable(grid, 0, 0, mid)) {
+                result = mid;
+                r = mid - 1;
+            } else {
+                l = mid + 1;
             }
-            
         }
-        return false;
+
+        return result;
     }
 }
