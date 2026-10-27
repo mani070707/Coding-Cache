@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mani070707/Coding-Cache/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/mani070707/Coding-Cache/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/mani070707/Coding-Cache/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/mani070707/Coding-Cache/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mani070707/Coding-Cache/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/mani070707/Coding-Cache/tree/master/0733-flood-fill) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mani070707/Coding-Cache/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mani070707/Coding-Cache/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mani070707/Coding-Cache/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/mani070707/Coding-Cache/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mani070707/Coding-Cache/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mani070707/Coding-Cache/tree/master/1021-remove-outermost-parentheses) |
@@ -562,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/mani070707/Coding-Cache/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
