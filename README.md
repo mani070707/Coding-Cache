@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/mani070707/Coding-Cache/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/mani070707/Coding-Cache/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mani070707/Coding-Cache/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/mani070707/Coding-Cache/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mani070707/Coding-Cache/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mani070707/Coding-Cache/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mani070707/Coding-Cache/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mani070707/Coding-Cache/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mani070707/Coding-Cache/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/mani070707/Coding-Cache/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mani070707/Coding-Cache/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mani070707/Coding-Cache/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mani070707/Coding-Cache/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mani070707/Coding-Cache/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mani070707/Coding-Cache/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mani070707/Coding-Cache/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mani070707/Coding-Cache/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mani070707/Coding-Cache/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mani070707/Coding-Cache/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/mani070707/Coding-Cache/tree/master/0778-swim-in-rising-water) |
 | [1146-snapshot-array](https://github.com/mani070707/Coding-Cache/tree/master/1146-snapshot-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mani070707/Coding-Cache/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mani070707/Coding-Cache/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mani070707/Coding-Cache/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mani070707/Coding-Cache/tree/master/2089-find-target-indices-after-sorting-array) |
