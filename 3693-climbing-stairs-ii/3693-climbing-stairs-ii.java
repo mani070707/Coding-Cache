@@ -14,7 +14,23 @@ class Solution {
     }
     public int climbStairs(int n, int[] costs) {
         int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return helper(n,costs,dp);
+        // Arrays.fill(dp,-1);
+        // return helper(n,costs,dp);
+
+        dp[0] = 0;
+
+        for(int j=1;j<=n;j++){
+            int best = Integer.MAX_VALUE;
+
+            for(int k=1; k<=3; k++){
+                if(j-k >= 0 ){
+                    best = Math.min(best,dp[j-k] + k*k);
+                }
+            }
+
+            dp[j] = best + costs[j-1];
+        }
+
+        return dp[n];
     }
 }
